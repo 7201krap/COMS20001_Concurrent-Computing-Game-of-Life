@@ -1,1 +1,1 @@
-# Go_Game-of-Life
+# Game-of-Life: Coursework of Concurrent Computing with Sungjin Kang and Jinhyun Park
